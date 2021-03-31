@@ -117,7 +117,7 @@ jupyter-client==5.1.0
 jupyter-console==5.2.0
 jupyter-core==4.3.0
 kombu==3.0.24
-lxml==4.1.0
+lxml==4.6.3
 Mail==2.1.0
 Mako==1.0.4
 Markdown==2.6.2
