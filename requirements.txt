@@ -121,7 +121,7 @@ lxml==4.1.0
 Mail==2.1.0
 Mako==1.0.4
 Markdown==2.6.2
-markdown2==2.3.0
+markdown2==2.4.0
 MarkupSafe==0.23
 matplotlib==2.1.2
 misago==0.14.0
