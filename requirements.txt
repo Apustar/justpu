@@ -97,7 +97,7 @@ grizzled-python==1.1.0
 guess-language-spirit==0.5.3
 gunicorn==19.4.5
 html2text==2017.10.4
-html5lib==0.9999999
+html5lib==0.99999999
 httpie> 1.0.3
 idna==2.6
 inflection==0.3.1
